@@ -18,6 +18,7 @@ public class ExampleFriday {
         // TODO code application logic here
         
         System.out.println("pull exmp");
+        //test
     }
     
 }
